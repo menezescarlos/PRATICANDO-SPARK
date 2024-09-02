@@ -1,21 +1,32 @@
-### DATA SCIENCE E ADVANCED ANALYTICS
 
-ATIVIDADE EM CURSOD E CLOUD COMPUTING<br>
+---
 
-### SPARK
+# 📊 **DATA SCIENCE E ADVANCED ANALYTICS**
 
-#### PROJETO (CONTEXTUALIZAÇÃO DO SPARK - DADOS HISTÓRICOS)
+---
 
-Iniciou como um projeto de pesquisa na UC Berkeley AMPLab em 2009<br>
-Open surce em 2010<br>
-Apache softwrae foundation em 2013<br>
-Spark foi criado para complementar o Handoop, não substituí-lo<br>
+## ☁️ **ATIVIDADE EM CURSO DE CLOUD COMPUTING**
 
-#### Framework
+### 🚀 **SPARK**
 
-Spark é um framework que faz o gerenciamento de atividades em processamento paralelo.<br>
-Utiliza a IVM e funciona com as linguagens Scala, Java, Python e R.<br>
-Linux, OSX, Windows<br>
+---
+
+## 📝 **PROJETO (CONTEXTUALIZAÇÃO DO SPARK - DADOS HISTÓRICOS)**
+
+- **Início:** O Spark começou como um projeto de pesquisa na UC Berkeley AMPLab em 2009.
+- **Open Source:** Tornou-se open source em 2010.
+- **Apache Software Foundation:** Integrado à Apache Software Foundation em 2013.
+- **Complementar ao Hadoop:** O Spark foi criado para complementar o Hadoop, não substituí-lo.
+
+---
+
+## ⚙️ **Framework**
+
+- **Gerenciamento de Atividades:** Spark é um framework que faz o gerenciamento de atividades em processamento paralelo.
+- **Compatibilidade:** Utiliza a JVM e funciona com as linguagens **Scala**, **Java**, **Python** e **R**.
+- **Sistemas Operacionais:** Compatível com **Linux**, **OSX** e **Windows**.
+
+---
 
 https://spark.apache.org/
 
